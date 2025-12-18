@@ -1,0 +1,15 @@
+{
+  "name": "ci-demo2",
+  "version": "1.0.0",
+  "description": "CI/CD Demo App on Port 3002",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "ci-cd",
+    "demo"
+  ],
+  "author": "Vcoch27",
+  "license": "MIT"
+}
