@@ -118,7 +118,7 @@ const html = `<!doctype html>
 </head>
 <body>
   <div class="container">
-    <div class="badge">🚀 LIVE test webhookksss</div>
+    <div class="badge">🚀 LIVE test webhooksksss</div>
     <h1>CI Demo 2</h1>
     <p class="subtitle">Automated CI/CD Deployment System</p>
 
